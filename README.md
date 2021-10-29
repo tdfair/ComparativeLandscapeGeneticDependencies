@@ -8,3 +8,5 @@ Jupyter Notebooks containing DESeq2 differential analysis of CEV-v1 CRISPRi scre
 
 
 * `α-RRA, CEV-v1 CRISPRi screening - public.ipynb` (Python kernel): Combine sgRNA _p_-values into gene false discovery rates (FDRs) using α-robust rank aggregation (α-RRA) from MAGeCK to identify genes with species-specific effects.
+
+* `Dream, variancePartition, CEV-v1 CRISPRi screening - public.ipynb` (R kernel): Perform sgRNA-level analysis of variance attributable to individual, species, time point, and residuals using Dream-variancePartition. 
